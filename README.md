@@ -1,3 +1,15 @@
+Author - Daksh Fofindi (Daksh Aerospace)
+
+## If you liked my work please follow me on below social media profiles
+Social media-
+youtube - https://m.youtube.com/@dakshfofindi907/videos?view=0&sort=dd&shelf_id=2
+Website - http://www.dakshaerospace.in/
+instagram - https://www.instagram.com/dakshfofindi/
+X - https://x.com/dakshfofindi
+LinkedIn - https://in.linkedin.com/in/dakshfofindi
+
+
+
 # Flight Data Logger System
 
 A high-frequency embedded data logging system designed for rocket avionics.  
